@@ -12,3 +12,6 @@ Explore my work, learn more about me, and get in touch to collaborate or inquire
 
 
 ![My Personal Website](https://github.com/DumindUdara/My-Website/assets/98957798/30c19f4c-8940-4950-bc18-d01201eeb211)
+
+
+        Happy Coding... 
